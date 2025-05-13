@@ -1,0 +1,9 @@
+All software provided here is distributed freely under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license. This license allows for sharing, adapting, and building upon the material non-commercially, as long as appropriate credit is given and any new creations are licensed under identical terms.
+
+These notebooks serve as supplementary material for the manuscript 'Multiphysics methods beyond physics: a flow‑based solver for urban crowd and crime simulation'
+
+Please note that the software is provided 'as is' without any warranties or guarantees of performance or reliability. Additionally, an OpenAI key is required to run the test cases, which is not provided with the software.
+
+USAGE:
+The notebook 'prepare_network_with_exits.ipynb' is an example on how to create the network
+The notebook 'Network_boids.ipynb' is an example on how to use the library 'path_following_functions.py' to run the simulation and the library 'plotting_functions.py' to plot the results
